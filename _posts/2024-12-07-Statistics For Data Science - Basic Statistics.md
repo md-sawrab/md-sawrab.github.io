@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Statistics for Data Science — Basic Statistics
+title:  Statistics for Data Science — Basic Statistics 
 date: 2024-12-07 10:38
-categories: [Statistics Tutorial]
+categories: [Statistics Blog Series]
 tags: [Statistics]
 ---
 
