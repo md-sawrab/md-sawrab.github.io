@@ -43,8 +43,8 @@ social:
     - https://x.com/__Sawrab # change to your Twitter homepage
     - https://github.com/md-sawrab # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/sawrab02
+    - https://www.linkedin.com/in/md-sawrab/
 
 # Site Verification Settings
 webmaster_verifications:
@@ -100,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1865258398155182082/CoBlU8_x_400x400.jpg
+avatar: assets/Profile/Profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
