@@ -6,37 +6,45 @@ categories: [Statistics Blog Series]
 tags: [Statistics]
 ---
 
-**Statistics** is a foundational component of data science, providing powerful tools and techniques for analyzing and interpreting data. Data scientists rely on statistical techniques to extract meaningful insights from large and complex data sets and identify patterns and trends that can contribute to informed business decisions. With solid statistical understanding, a data scientist can better understand the behavior of the data.
+**Statistics** is a foundational component of data science, providing powerful tools and techniques for analyzing and interpreting data. Data scientists often use statistical techniques to extract meaningful insights from large and complex data sets and identify patterns and trends that can contribute to informed business decisions. With solid statistical understanding, a data scientist can better understand the behavior of the data.
 
 In this blog series, we will cover everything from foundational theories to advanced analytical techniques and explore their real-world application. This series helps you to build a strong statistical understanding for data science.
 
 ### **What is Statistics?**
 
-Statistics is the branch of applied mathematics that deals with collection, Organization, Analysis, Interpretation, Presentation of data.
+Statistics is the branch of applied mathematics that deals with collection, Organization, Analysis, Interpretation and Presentation of data. 
+
+Statistics is widely used in various fields such as science, economics, social sciences, business, and engineering to provide insights, make predictions, and guide decision-making processes. Statistics is like a tool that helps us see patterns, trends, and relationships in the data. Whether it's counting how many people like pizza or figuring out the average score on a test, statistics helps us make decisions based on data.
 
 **Example:**
 
 - Average(mean) marks of students in an exam.
 - Estimating the average height of all students in a school based on a sample of 100 students.
 
-### **Some Key Definition:**
+### **Some Key Concepts:**
 
 **Data:** Data can be anything and everything . Any information or facts can be considered as data. Example: age, weight etc.
 
-**Population:** Population is the collection of all items or individuals of interested to our study. Example: All students in a class.
+**Population:** Population refers to the totality or collection of all objects, items or individuals on which observations are taken on the basics of a common characteristics.
+
+Example: All students in a class.
 
 **Types of populations:** The population can be classified according to the number of individuals that make it up:
 
 - **Finite population:** A finite population can be counted, and the members can be studied more easily. For example, the number of people enrolled in a course.
-- **Infinite population:** They are huge populations where it is tough to count its members, so only a portion of it is usually taken into account when conducting a study, thus selecting a sample. For example, the number of grains of sand on a beach.
+- **Infinite population:** A infinite population is so large that cannot be counted. For example, The number of user searches on Google per second.
 
-**Sample:** A sample is a subset of population used to draw conclusions about the population. Example: Some students in a class.
+**Sample:** A sample is a subset of population used to draw conclusions about the population. Example: A survey of 100 students to understand the study habits of all students in the school.
 
-**Parameter:** Parameters are numbers that describe the properties of entire populations
+**Parameter:** Parameters are numbers that describe the properties of entire populations.
+
+Example: **Average Height of All Students in a School** — If the true average height of all students in a school is 5.5 feet, this value is a parameter.
 
 **Statistic:** Statistic are numbers that describe the properties of entire sample.
 
-**Variable:** In statistics variables are numbers or characteristics that can be counted or measured.
+Example: **Average Height of 100 Students** — If we measure 100 students from a school and find their average height is 5.4 feet, this is a statistic.
+
+**Variable:** A variable is any characteristic, number, or quantity that can change or take different values in a dataset.
 
 Example: age, length, height etc. that can be change or vary.
 
@@ -53,6 +61,12 @@ Example: Color of a car , Gender of a patient, Size of an industry etc.
 **Quantitative variable:** Quantitative variables, also known as numerical variables, represent quantities or amounts.
 
 Example: Number of children a family, Weight of a man etc.
+
+### **Types of Quantitative Data:**
+
+- Discrete Data: Discrete variable can only take specific or distinct values. These values are typically whole numbers or integers and can be counted. Example: Number of students in a class (30, 31, 33 )
+
+- Continuous Data: Continuous variable is a type of variable that can take on any value within a given range and can be measured. Example: Height of a person.
 
 ### **Scale of Measurement:** 
 There are four types of scale as follows:
@@ -138,8 +152,4 @@ It is a method of draw conclusions and making predictions about a population bas
 
 ## **Conclusion**
 
-Thanks for reading .
-
-**Your Network is your Networth” — Tim Sanders**
-
-[LinkedIn](https://www.linkedin.com/in/md-sawrab/) | [GitHub](https://github.com/md-sawrab)
+Thanks for reading.
