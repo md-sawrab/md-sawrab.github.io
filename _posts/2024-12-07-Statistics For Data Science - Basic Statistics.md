@@ -12,7 +12,7 @@ In this blog series, we will cover everything from foundational theories to adva
 
 ### **What is Statistics?**
 
-Statistics is the branch of applied mathematics that deals with collection, Organization, Analysis, Interpretation and Presentation of data. 
+Statistics is the branch of applied mathematics that deals with the collection, organization, analysis, interpretation, and presentation of data to help make more effective decisions.
 
 Statistics is widely used in various fields such as science, economics, social sciences, business, and engineering to provide insights, make predictions, and guide decision-making processes. Statistics is like a tool that helps us see patterns, trends, and relationships in the data. Whether it's counting how many people like pizza or figuring out the average score on a test, statistics helps us make decisions based on data.
 
@@ -23,26 +23,30 @@ Statistics is widely used in various fields such as science, economics, social s
 
 ### **Some Key Concepts:**
 
-**Data:** Data can be anything and everything . Any information or facts can be considered as data. Example: age, weight etc.
+**Data:** Data can be anything and everything . Any information or facts can be considered as data. 
+
+Example: age, weight etc.
 
 **Population:** Population refers to the totality or collection of all objects, items or individuals on which observations are taken on the basics of a common characteristics.
 
-Example: All students in a class.
+Example: All students in a university when studying average exam scores.
 
 **Types of populations:** The population can be classified according to the number of individuals that make it up:
 
 - **Finite population:** A finite population can be counted, and the members can be studied more easily. For example, the number of people enrolled in a course.
 - **Infinite population:** A infinite population is so large that cannot be counted. For example, The number of user searches on Google per second.
 
-**Sample:** A sample is a subset of population used to draw conclusions about the population. Example: A survey of 100 students to understand the study habits of all students in the school.
+**Sample:** A sample is a subset of population used to draw conclusions about the population. 
+
+Example: A survey of 100 students to understand the study habits of all students in the school.
 
 **Parameter:** Parameters are numbers that describe the properties of entire populations.
 
-Example: **Average Height of All Students in a School** — If the true average height of all students in a school is 5.5 feet, this value is a parameter.
+Example: Average Height of All Students in a School — If the true average height of all students in a school is 5.5 feet, this value is a parameter.
 
 **Statistic:** Statistic are numbers that describe the properties of entire sample.
 
-Example: **Average Height of 100 Students** — If we measure 100 students from a school and find their average height is 5.4 feet, this is a statistic.
+Example: Average Height of 100 Students — If we measure 100 students from a school and find their average height is 5.4 feet, this is a statistic.
 
 **Variable:** A variable is any characteristic, number, or quantity that can change or take different values in a dataset.
 
@@ -71,10 +75,10 @@ Example: Number of children a family, Weight of a man etc.
 ### **Scale of Measurement:** 
 There are four types of scale as follows:
 
-- **Nominal Scale**
-- **Ordinal Scale**
-- **Interval Scale**
-- **Ratio Scale**
+- Nominal Scale
+- Ordinal Scale
+- Interval Scale
+- Ratio Scale
 
 ![Scale of Measurement](assets/Posts/Levels-of-measurement.jpeg)
 
@@ -86,7 +90,7 @@ Examples:
 - Blood Type: A, B, AB, O
 - Marital Status: Single, Married, Divorced
 
-**Ordinal Scale:** The ordinal scale is a type of measurement where data is organized into a specific order or ranking. However, while you can tell which item is higher or lower in the order, the exact difference between the ranks isn’t consistent or precisely measurable.
+**Ordinal Scale:** The ordinal scale is a type of measurement where data is organized into a specific order or ranking, but the differences between values are not measurable.
 
 Examples:
 
@@ -94,13 +98,16 @@ Examples:
 - Customer Satisfaction: Very Unsatisfied, Unsatisfied, Neutral, Satisfied, Very Satisfied
 - Economic Status: Low, Middle, High
 
-**Interval Scale:** The interval scale not only allows for ordering of data but also provides meaningful and equal intervals between data points.
+Note: We cannot measure the exact difference between ranks. For example, "Satisfied" is higher than "Neutral," but we don't know by how much.
+
+**Interval Scale:** The interval scale not only allows for ordering of data but also provides meaningful and equal intervals between data points. Interval scales do not have a true zero i.e In Celsius 0 degrees does not mean the absence of heat.
 
 Examples:
 
 - Temperature: Celsius, Fahrenheit
 - Calendar Years: 2000, 2020, 2024
 - IQ Scores
+
 Interval data allows for addition and subtraction, but since there is no absolute zero, multiplication and division do not apply. For instance, 20°C is not “twice as warm” as 10°C.
 
 **Ratio Scale:** The ratio scale is the most informative and robust scale of measurement. It has all the properties of the interval scale, but it also includes an absolute zero point, which allows for the calculation of ratios.
@@ -146,10 +153,16 @@ It is a method of draw conclusions and making predictions about a population bas
 
 2. Alternative Hypothesis (H1): The hypothesis that there is an effect or difference.
 
-- Confidence Intervals: These are ranges of values that are used to estimate a population parameter. For example, a 95% confidence interval means that you can be 95% certain that the true population parameter lies within this range.
-- Regression Analysis: This technique assesses the relationship between variables, allowing you to predict the value of one variable based on the value of another.
-- t-tests, chi-square tests, ANOVA (Analysis of Variance): These are different types of statistical tests used to compare groups and see if the differences between them are statistically significant.
+**Confidence Intervals:** These are ranges of values that are used to estimate a population parameter. For example, a 95% confidence interval means that you can be 95% certain that the true population parameter lies within this range.
+
+**Regression Analysis:** This technique assesses the relationship between variables, allowing you to predict the value of one variable based on the value of another.
+
+**t-tests, chi-square tests, ANOVA (Analysis of Variance):** These are different types of statistical tests used to compare groups and see if the differences between them are statistically significant.
 
 ## **Conclusion**
+
+In this first blog, we've covered some basic but important concepts in statistics, like population, sample,parameters and scale of measurement. These ideas are essential for understanding how data is analyzed in data science.
+
+In the next post, we'll dive into descriptive statistics and learn how to summarize and understand datasets better.
 
 Thanks for reading.
