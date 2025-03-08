@@ -21,7 +21,7 @@ Statistics is widely used in various fields such as science, economics, social s
 - Average(mean) marks of students in an exam.
 - Estimating the average height of all students in a school based on a sample of 100 students.
 
-### **Some Key Concepts:**
+### **Some Key Concepts**
 
 **Data:** Data can be anything and everything . Any information or facts can be considered as data. 
 
@@ -52,7 +52,7 @@ Example: Average Height of 100 Students — If we measure 100 students from a sc
 
 Example: age, length, height etc. that can be change or vary.
 
-### **Types of Variable:** 
+### **Types of Variable** 
 According to weather a variable takes numerical of non-numerical values .It can be classified into two categories:
 
 1. Qualitative Variable
@@ -66,13 +66,13 @@ Example: Color of a car , Gender of a patient, Size of an industry etc.
 
 Example: Number of children a family, Weight of a man etc.
 
-### **Types of Quantitative Data:**
+### **Types of Quantitative Data**
 
 - Discrete Data: Discrete variable can only take specific or distinct values. These values are typically whole numbers or integers and can be counted. Example: Number of students in a class (30, 31, 33 )
 
 - Continuous Data: Continuous variable is a type of variable that can take on any value within a given range and can be measured. Example: Height of a person.
 
-### **Scale of Measurement:** 
+### **Scale of Measurement** 
 There are four types of scale as follows:
 
 - Nominal Scale
@@ -118,13 +118,13 @@ Examples:
 - Weight: 50 kg, 100 kg
 - Age: 20 years, 40 years
 
-### **Types of statistics:** 
+### **Types of statistics** 
 There are two types of Statistics as follows:
 
 - Descriptive Statistics.
 - Inferential Statistics.
 
-### **Descriptive Statistics:**
+### **Descriptive Statistics**
 It is a method of describing and summarizing data in a meaningful way. They provide a way to present data in a meaningful and manageable form, helping you understand what the data shows at a glance.
 
 **Key Components of Descriptive Statistics:**
@@ -142,7 +142,7 @@ It is a method of describing and summarizing data in a meaningful way. They prov
 - Standard Deviation: The square root of the variance, showing how much data typically deviates from the mean.
 - Frequency Distribution: This shows how often each value occurs in the data set. It can be represented through tables, histograms, or pie charts.
 
-### **Inferential Statistics:**
+### **Inferential Statistics**
 It is a method of draw conclusions and making predictions about a population based on a sample of data.
 
 **Key Components of Inferential Statistics:**
@@ -159,7 +159,7 @@ It is a method of draw conclusions and making predictions about a population bas
 
 **t-tests, chi-square tests, ANOVA (Analysis of Variance):** These are different types of statistical tests used to compare groups and see if the differences between them are statistically significant.
 
-## **Conclusion**
+### **Conclusion**
 
 In this first blog, we've covered some basic but important concepts in statistics, like population, sample,parameters and scale of measurement. These ideas are essential for understanding how data is analyzed in data science.
 
