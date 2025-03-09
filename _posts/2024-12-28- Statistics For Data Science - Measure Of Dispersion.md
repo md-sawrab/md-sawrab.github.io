@@ -6,7 +6,7 @@ categories: [Statistics Blog Series]
 tags: [Statistics]
 ---
 
-Welcome to the new series — Statistics For Data Science. In this article, we will dive into the fundamental concepts of measures of dispersion. In the second article of this series, we discussed Measures of Central Tendency.
+Welcome to the new series — Statistics For Data Science. In this article, we will dive into the fundamental concepts of measures of dispersion and therir real world application.
 
 Descriptive statistics not only help in summarizing data but also in understanding its variability. Measures of dispersion are essential for understanding the spread or variability within a dataset.
 
