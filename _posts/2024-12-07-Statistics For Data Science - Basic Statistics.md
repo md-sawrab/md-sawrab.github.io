@@ -31,7 +31,7 @@ Example: age, weight etc.
 
 Example: All students in a university when studying average exam scores.
 
-**Types of populations:** The population can be classified according to the number of individuals that make it up:
+**Types of populations:** The population can be classified based on the number of individuals it includes: 
 
 - **Finite population:** A finite population can be counted, and the members can be studied more easily. For example, the number of people enrolled in a course.
 - **Infinite population:** A infinite population is so large that cannot be counted. For example, The number of user searches on Google per second.
@@ -124,7 +124,7 @@ There are two types of Statistics as follows:
 - Descriptive Statistics.
 - Inferential Statistics.
 
-### **Descriptive Statistics**
+#### **Descriptive Statistics**
 It is a method of describing and summarizing data in a meaningful way. They provide a way to present data in a meaningful and manageable form, helping you understand what the data shows at a glance.
 
 **Key Components of Descriptive Statistics:**
@@ -142,7 +142,7 @@ It is a method of describing and summarizing data in a meaningful way. They prov
 - Standard Deviation: The square root of the variance, showing how much data typically deviates from the mean.
 - Frequency Distribution: This shows how often each value occurs in the data set. It can be represented through tables, histograms, or pie charts.
 
-### **Inferential Statistics**
+#### **Inferential Statistics**
 It is a method of draw conclusions and making predictions about a population based on a sample of data.
 
 **Key Components of Inferential Statistics:**
