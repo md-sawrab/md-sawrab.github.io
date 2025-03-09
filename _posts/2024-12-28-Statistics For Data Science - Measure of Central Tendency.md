@@ -32,7 +32,7 @@ The mean represents the average value of the dataset. It can be calculated as th
 
 Formula for Mean:
 
-![Mean](assets/Posts/meann.avif)
+![meann](assets/Posts/meann.avif)
 
 Where:
 

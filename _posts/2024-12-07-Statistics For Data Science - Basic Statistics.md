@@ -165,4 +165,4 @@ In this first blog, we've covered some basic but important concepts in statistic
 
 In the next post, we'll dive into descriptive statistics and learn how to summarize and understand datasets better.
 
-Thanks for reading.
+**Thanks for reading.**
