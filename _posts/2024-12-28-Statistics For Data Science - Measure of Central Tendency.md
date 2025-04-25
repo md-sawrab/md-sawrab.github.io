@@ -2,7 +2,7 @@
 layout: post
 title:  Statistics for Data Science — Measure of Central Tendency 
 date: 2024-12-28 2:41
-categories: [Statistics Blog Series]
+categories: [Statistics for Data Science]
 tags: [Statistics]
 ---
 

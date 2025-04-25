@@ -2,7 +2,7 @@
 layout: post
 title:  Statistics for Data Science — Measure of Dispersion
 date: 2024-12-28 2:50
-categories: [Statistics Blog Series]
+categories: [Statistics for Data Science]
 tags: [Statistics]
 ---
 

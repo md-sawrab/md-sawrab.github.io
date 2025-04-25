@@ -2,7 +2,7 @@
 layout: post
 title:  Statistics for Data Science — Basic Statistics 
 date: 2024-12-07 10:38
-categories: [Statistics Blog Series]
+categories: [Statistics for Data Science]
 tags: [Statistics]
 ---
 
@@ -20,6 +20,14 @@ Statistics is widely used in various fields such as science, economics, social s
 
 - Average(mean) marks of students in an exam.
 - Estimating the average height of all students in a school based on a sample of 100 students.
+
+### **Why Statistics is important?**
+
+Imagine you're the owner of an online bookshop. You have customer data. Now, you want to know how many books were sold in the last week, which books sold the most, and which customer purchased the most books.
+
+Here's where statistics comes in:
+
+With statistics, you can analyze your customer data to uncover insights. You might discover that "Data Science for Beginners" is the bestselling book. These insights allow you to create effective marketing strategies for your business. For example, knowing which book is popular helps you focus your promotions on high-demand books, target specific customer groups, or even create personalized offers based on purchasing trends.
 
 ### **Some Key Concepts**
 
@@ -161,7 +169,7 @@ It is a method of draw conclusions and making predictions about a population bas
 
 ### **Conclusion**
 
-In this first blog, we've covered some basic but important concepts in statistics, like population, sample,parameters and scale of measurement. These ideas are essential for understanding how data is analyzed in data science.
+In this blog, we've covered some basic but important concepts in statistics, like population, sample,parameters and scale of measurement. These ideas are essential for understanding how data is analyzed in data science.
 
 In the next post, we'll dive into descriptive statistics and learn how to summarize and understand datasets better.
 
