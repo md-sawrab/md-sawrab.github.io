@@ -295,6 +295,8 @@ git restore --staged
 
 ```
 
+### Conclusion
+
 In this part, we covered the basics of Git and version control — including how to create a repository, use basic terminal commands, understand commits, and compare changes using `git diff`, `git log`, and more.
 
 These are the foundation of working with Git. If you're just getting started, practicing these commands will help you feel more confident.
